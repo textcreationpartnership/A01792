@@ -35,11 +35,15 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A discourse of the great crueltie of a widowe towardes a yong gentleman, and by what meanes he requi
+
+1. LECTORI.
+
+1. The Prefac• to the Reader.
+
 #####Body#####
-A discourse of the great crueltie of a widowe towardes a yong gentleman, and by what meanes he requi
+WIthin the reach of Europe land a pleasant soyle there is,Which Thu ri• hight, a Citie faire, abound
 #####Back#####
-A discourse of the great crueltie of a widowe towardes a yong gentleman, and by what meanes he requi
+•rinted at London by Henr Binneman, dwelling in Knightrider Streatt at the Signe of the Mermaid.
 **Types of content**
 
   * There are 991 **verse** lines!
